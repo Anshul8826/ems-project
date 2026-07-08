@@ -10,7 +10,7 @@ function App() {
   });
 
 
-  https://ems-backend-4oxu.onrender.com;
+const API_URL = "https://ems-backend-4oxu.onrender.com/employees";;
   //replace the local host with deployed backend render link
   // const API_URL = "https://ems-backend-ackm.onrender.com/employees";
 
